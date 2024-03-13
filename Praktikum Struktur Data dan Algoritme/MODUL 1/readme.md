@@ -239,4 +239,8 @@ Kode di atas untuk menghitung luas dan keliling persegi panjang berdasarkan inpu
 Kode di atas program ini memperlihatkan penggunaan class dan struct untuk mengelompokkan dan mengakses data dengan cara yang berbeda.
 
 #### Output Unguided 3
-![Output Unguided 3]()
+![Output Unguided 3](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%201/GAMBAR%20OUTPUT/output%20unguided%203.png)
+Kode di atas untuk membuat sebuah map yang memetakan nama siswa ke usia mereka. Kemudian, beberapa entri ditambahkan ke map tersubut 
+
+#### Full code Screenshot
+![Output Full code Screenshot]()
