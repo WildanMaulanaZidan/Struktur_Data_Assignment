@@ -243,4 +243,4 @@ Kode di atas program ini memperlihatkan penggunaan class dan struct untuk mengel
 Kode di atas untuk membuat sebuah map yang memetakan nama siswa ke usia mereka. Kemudian, beberapa entri ditambahkan ke map tersubut 
 
 #### Full code Screenshot
-![Output Full code Screenshot]()
+![Output Full code Screenshot](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/tree/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%201/GAMBAR%20OUTPUT)
