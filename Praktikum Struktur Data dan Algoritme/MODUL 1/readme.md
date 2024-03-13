@@ -1,5 +1,4 @@
 # <h1 align="center"> LAPORAN PRAKTIKUM MODUL 1 TIPE DATA </h1>
-<p align="center> Wildan Maulana Zidan </p>
 
 ## Dasar Teori
 
