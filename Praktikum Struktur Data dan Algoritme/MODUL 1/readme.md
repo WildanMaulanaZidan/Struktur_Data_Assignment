@@ -233,4 +233,4 @@ Perbedaan antara array dan map adalah:
 ## Output
 
 #### Output 1
-![Praktikum Struktur Data dan Algoritme/MODUL 1/GAMBAR OUTPUT/output unguided 1.png]()
+![Praktikum Struktur Data dan Algoritme/MODUL 1/GAMBAR OUTPUT/output unguided 1.png](Praktikum Struktur Data dan Algoritme/MODUL 1/UNGUIDED/unguided1.cpp)
