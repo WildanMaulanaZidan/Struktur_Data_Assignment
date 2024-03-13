@@ -230,7 +230,5 @@ Perbedaan antara array dan map adalah:
 2. Array memiliki indeks yang berurutan, sedangkan map tidak memiliki indeks yang berurutan.
 3. Array tidak mengizinkan nilai yang sama, sedangkan map mengizinkan nilai yang sama.
 
-## Output
-
-#### Output 1
-![Praktikum Struktur Data dan Algoritme/MODUL 1/GAMBAR OUTPUT/output unguided 1.png](Praktikum Struktur Data dan Algoritme/MODUL 1/UNGUIDED/unguided1.cpp)
+#### Output 
+![Output Unguided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%201/UNGUIDED/unguided1.cpp)
