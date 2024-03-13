@@ -231,4 +231,4 @@ Perbedaan antara array dan map adalah:
 3. Array tidak mengizinkan nilai yang sama, sedangkan map mengizinkan nilai yang sama.
 
 #### Output 
-![Output Unguided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%201/UNGUIDED/unguided1.cpp)
+![Output Unguided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%201/GAMBAR%20OUTPUT/output%20unguided%201.png)
