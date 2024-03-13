@@ -224,10 +224,11 @@ int main() {
 }
 ```
 Fungsi map dalam C++ adalah sebuah container yang digunakan untuk menyimpan elemen dalam bentuk key-value pair. Setiap elemen dalam map dapat diakses menggunakan kunci.
+
 Perbedaan antara array dan map adalah:
-  -Array adalah sebuah data structure yang digunakan untuk menyimpan beberapa data dengan tipe yang sama, sedangkan map adalah sebuah data       structure yang digunakan untuk menyimpan data dalam bentuk key-value pair.
-  -Array memiliki indeks yang berurutan, sedangkan map tidak memiliki indeks yang berurutan.
-  -Array tidak mengizinkan nilai yang sama, sedangkan map mengizinkan nilai yang sama.
+-Array adalah sebuah data structure yang digunakan untuk menyimpan beberapa data dengan tipe yang sama, sedangkan map adalah sebuah data       structure yang digunakan untuk menyimpan data dalam bentuk key-value pair.
+-Array memiliki indeks yang berurutan, sedangkan map tidak memiliki indeks yang berurutan.
+-Array tidak mengizinkan nilai yang sama, sedangkan map mengizinkan nilai yang sama.
 
 ## Output
 
