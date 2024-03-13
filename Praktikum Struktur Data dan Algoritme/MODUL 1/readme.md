@@ -244,3 +244,15 @@ Kode di atas untuk membuat sebuah map yang memetakan nama siswa ke usia mereka. 
 
 #### Full code Screenshot
 ![Output Full code Screenshot](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/tree/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%201/GAMBAR%20OUTPUT)
+
+## Kesimpulan
+Tipe data primitif biasanaya digunakan untuk menyimpan nilai tunggal. class dan struct keduanya memiliki perbedaan dimna private unutk class dan public unutk struct. dan map biasanya digunakan unutk menghubungkan dua jenis data yang berbeda seperti nama dan usia siswa dalam conton kode di atas.
+
+## Referensi
+Karumanchi, N. (2016). Data Structures and algorithms made easy: Concepts,
+problems, Interview Questions. CareerMonk Publications.
+
+TylerMSFT. (n.d.). Collections (C++/CX). diakses dari
+https://learn.microsoft.com/en-us/cpp/cppcx/collections-c-cx?view=msvc-170
+
+Fajar, "Penjelasan dan Cara Pembuatan Class dan Object," 27 Agustus 2018. [Online]. Available: https://www.belajarcpp.com/tutorial/cpp/class/. [Accessed 13 Maret 2024].
