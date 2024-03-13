@@ -230,5 +230,9 @@ Perbedaan antara array dan map adalah:
 2. Array memiliki indeks yang berurutan, sedangkan map tidak memiliki indeks yang berurutan.
 3. Array tidak mengizinkan nilai yang sama, sedangkan map mengizinkan nilai yang sama.
 
-#### Output 
+#### Output Unguided 1
 ![Output Unguided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%201/GAMBAR%20OUTPUT/output%20unguided%201.png)
+Kode di atas untuk menghitung luas dan keliling persegi panjang berdasarkan input panjang dan lebar yang dimasukkan pengguna. Fungsi hitungluas_162 digunakan untuk menghitung luas persegi panjang, sedangkan fungsi hitungkeliling_162 digunakan untuk menghitung keliling persegi panjang.
+
+#### Output Unguided 2
+![Output Unguided 2]()
