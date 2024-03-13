@@ -235,4 +235,8 @@ Perbedaan antara array dan map adalah:
 Kode di atas untuk menghitung luas dan keliling persegi panjang berdasarkan input panjang dan lebar yang dimasukkan pengguna. Fungsi hitungluas_162 digunakan untuk menghitung luas persegi panjang, sedangkan fungsi hitungkeliling_162 digunakan untuk menghitung keliling persegi panjang.
 
 #### Output Unguided 2
-![Output Unguided 2]()
+![Output Unguided 2](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%201/GAMBAR%20OUTPUT/output%20unguided%202.png)
+Kode di atas program ini memperlihatkan penggunaan class dan struct untuk mengelompokkan dan mengakses data dengan cara yang berbeda.
+
+#### Output Unguided 3
+![Output Unguided 3]()
