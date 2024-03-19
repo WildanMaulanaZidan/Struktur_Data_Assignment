@@ -250,6 +250,25 @@ int main() {
 ```
 
 #### Output Unguided 1
-1[Output Unguided 1]
+![Output Unguided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%202/GAMBAR%20OUTPUT/output%20unguided%201.png)
+Kode ini meminta user untuk memasukkan sepuluh angka secara berurutan, kemudian menampilkan data array, nomor genap, dan nomor ganjil sesuai dengan permintaan.
 
+#### Output Unguided 2
+![Output Unguided 2](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%202/GAMBAR%20OUTPUT/output%20unguided%202.png)
+kode ini memungkinkan user untuk memasukkan ukuran elemen array tiga dimensi, kemudian meminta pengguna untuk memasukkan nilai-nilai elemennya, dan terakhir menampilkan nilai-nilai tersebut.
+
+#### Output Unguided 3
+![Output Unguided 3](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%202/GAMBAR%20OUTPUT/output%20unguided%203.png)
+kode ini meminta user untuk memasukkan ukuran array, kemudian meminta user untuk memasukkan nilai-nilai array. Setelah itu, program menghitung nilai maksimum, minimum, dan nilai rata-rata dari array tersebut, dan menampilkannya kepada user.
+
+#### Full code Screnshoot
+1[Output Full code Screnshoot](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/tree/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%202/GAMBAR%20OUTPUT#:~:text=Name-,Last%20commit%20message,2%20minutes%20ago,-Struktur_Data_Assignment/Praktikum%20Struktur)
+
+## Kesimpulan 
+Array adalah struktur data yang menyimpan elemen dengan tipe data yang sama, dapat diakses berdasarkan indeks, dan memiliki ukuran tetap.
+
+## Referensi
+Asisten Praktikum, “Modul 2 Array”, Learning Management System, 2024.
+
+R. AS, "Panduan Mudah untuk Memahami Array C++," 2023. [Online]. Available: https://www.simplilearn.com/tutorials/cpp-tutorial/cpp-array. [Accessed 19 3 2024].
 
