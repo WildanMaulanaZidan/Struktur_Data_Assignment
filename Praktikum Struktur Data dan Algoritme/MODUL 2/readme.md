@@ -251,14 +251,17 @@ int main() {
 
 #### Output Unguided 1
 ![Output Unguided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%202/GAMBAR%20OUTPUT/output%20unguided%201.png)
+
 Kode ini meminta user untuk memasukkan sepuluh angka secara berurutan, kemudian menampilkan data array, nomor genap, dan nomor ganjil sesuai dengan permintaan.
 
 #### Output Unguided 2
 ![Output Unguided 2](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%202/GAMBAR%20OUTPUT/output%20unguided%202.png)
+
 kode ini memungkinkan user untuk memasukkan ukuran elemen array tiga dimensi, kemudian meminta pengguna untuk memasukkan nilai-nilai elemennya, dan terakhir menampilkan nilai-nilai tersebut.
 
 #### Output Unguided 3
 ![Output Unguided 3](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%202/GAMBAR%20OUTPUT/output%20unguided%203.png)
+
 kode ini meminta user untuk memasukkan ukuran array, kemudian meminta user untuk memasukkan nilai-nilai array. Setelah itu, program menghitung nilai maksimum, minimum, dan nilai rata-rata dari array tersebut, dan menampilkannya kepada user.
 
 #### Full code Screnshoot
