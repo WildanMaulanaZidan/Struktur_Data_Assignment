@@ -159,3 +159,96 @@ int main() {
 }
 ```
 
+### Unguided 2. Buatlah program Input array tiga dimensi (seperti pada guided) tetapi jumlah
+atau ukuran elemennya diinputkan oleh user!
+```C++
+#include <iostream>
+using namespace std;
+
+int main() {
+    int size1_162, size2_162, size3_162;
+
+   cout << "Masukkan ukuran elemen array tiga dimensi:\n";
+   cout << "Ukuran dimensi pertama: ";
+   cin >> size1_162;
+   cout << "Ukuran dimensi kedua: ";
+   cin >> size2_162;
+   cout << "Ukuran dimensi ketiga: ";
+   cin >> size3_162;
+
+    int array[size1_162][size2_162][size3_162];
+
+   cout << "Masukkan nilai-nilai elemen array:\n";
+    for (int i = 0; i < size1_162; ++i) {
+        for (int j = 0; j < size2_162; ++j) {
+            for (int k = 0; k < size3_162; ++k) {
+               cout << "Nilai untuk elemen [" << i << "][" << j << "][" << k << "]: ";
+               cin >> array[i][j][k];
+            }
+        }
+    }
+
+   cout << "Nilai-nilai elemen array:\n";
+    for (int i = 0; i < size1_162; ++i) {
+        for (int j = 0; j < size2_162; ++j) {
+            for (int k = 0; k < size3_162; ++k) {
+               cout << "array[" << i << "][" << j << "][" << k << "] = " << array[i][j][k] << "\n";
+            }
+        }
+    }
+
+    return 0;
+}
+```
+
+### Unguided 3. Buatlah program menu untuk mencari nilai Maksimum, Minimum dan Nilai
+rata – rata dari suatu array dengan input yang dimasukan oleh user!
+```C++
+#include <iostream>
+using namespace std;
+
+int main() {
+    int size_162;
+
+   cout << "Masukkan ukuran array: ";
+   cin >> size_162;
+
+    int array[size_162];
+
+   cout << "Masukkan nilai-nilai array:\n";
+    for (int i = 0; i < size_162; ++i) {
+       cout << "Nilai untuk elemen ke-" << i << ": ";
+       cin >> array[i];
+    }
+
+    int max = array[0];
+    for (int i = 1; i < size_162; ++i) {
+        if (array[i] > max) {
+            max = array[i];
+        }
+    }
+
+    int min = array[0];
+    for (int i = 1; i < size_162; ++i) {
+        if (array[i] < min) {
+            min = array[i];
+        }
+    }
+
+    double sum = 0;
+    for (int i = 0; i < size_162; ++i) {
+        sum += array[i];
+    }
+    double average = sum / size_162;
+
+   cout << "Nilai maksimum: " << max <<endl;
+   cout << "Nilai minimum: " << min <<endl;
+   cout << "Nilai rata-rata: " << average <<endl;
+
+    return 0;
+}
+```
+
+## Output
+
+
