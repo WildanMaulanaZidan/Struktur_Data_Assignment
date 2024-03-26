@@ -75,7 +75,6 @@ void tambahDataUrutanTertentu(string nama, int harga, string namaSebelumnya) {
 }
 
 // Fungsi untuk menghapus data
-// Fungsi untuk menghapus data
 void hapusData(string nama) {
     if (head == NULL) {
         cout << "List kosong" << endl;
