@@ -1,5 +1,4 @@
 # <h1 align="center> LAPORAN PRAKTIKUM MODUL 3 SINGLE AND DOUBLE LINKED LIST </h1>
-<p align="center" > Wildan Maulana Zidan</p>
 
 ## Dasar Teori
 
