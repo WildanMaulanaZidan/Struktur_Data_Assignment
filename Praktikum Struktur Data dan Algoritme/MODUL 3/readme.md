@@ -923,5 +923,23 @@ int main() {
     return 0;
 }
 ```
+#### Output Guided 1
+![Output Unguided 1]()
+Kode ini memiliki fungsi-fungsi seperti inisialisasi, pengecekan kekosongan,
+penambahan depan, belakang, tengah dan penghapusan data, serta tampilkan data
+keseluruhan. 
 
+#### Output Guided 2
+![Output Unguided 2]()
+Kode ini adalah sebuah program manajemen toko skincare yang menggunakan linked list untuk menyimpan data produk-produk skincare beserta harganya. 
+Kode ini memungkinkan pengguna untuk menambahkan data produk baru, menghapus data produk, mengubah data produk, menambahkan data produk pada urutan tertentu, menghapus data produk pada urutan tertentu, menghapus seluruh data produk, dan menampilkan seluruh data produk yang tersimpan.
+
+#### Full Code Screnshoot
+![Output Full Code Screnshoot]()
+
+## Kesimpulan
+
+## Referensi
+[1]
+[2]
 
