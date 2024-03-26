@@ -473,7 +473,7 @@ int main() {
     return 0;
 }
 ```
-Kode di atas merupakan double linked list adalah struktur data linear di mana setiap elemen memiliki pointer ke elemen sebelumnya dan setelahnya. Program ini memungkinkan pengguna untuk melakukan berbagai operasi seperti menambahkan data ke awal daftar, menghapus data dari awal daftar, memperbarui data, menghapus semua data, dan menampilkan isi dari daftar. 
+Kode di atas merupakan double linked list adalah struktur data linear di mana setiap elemen memiliki pointer ke elemen sebelumnya dan setelahnya. kode ini memungkinkan pengguna untuk melakukan berbagai operasi seperti menambahkan data ke awal daftar, menghapus data dari awal daftar, memperbarui data, menghapus semua data, dan menampilkan isi dari daftar. 
 
 ## Unguided
 
