@@ -337,7 +337,9 @@ int main()
     return 0;
 }
 ```
-KODE
+Kode di atas ini memiliki fungsi untuk inisialisasi linked list, menambahkan elemen
+di depan, belakang, dan tengah, menghitung jumlah elemen, menghapus elemen didepan, belakang, dan tengah, 
+serta mengubah nilai elemen di depan, belakang, dan tengah.
 
 ### 2. Guided 2 Latihan Double Linked List
 ``` C++
@@ -471,7 +473,7 @@ int main() {
     return 0;
 }
 ```
-KODE
+Kode di atas merupakan double linked list adalah struktur data linear di mana setiap elemen memiliki pointer ke elemen sebelumnya dan setelahnya. Program ini memungkinkan pengguna untuk melakukan berbagai operasi seperti menambahkan data ke awal daftar, menghapus data dari awal daftar, memperbarui data, menghapus semua data, dan menampilkan isi dari daftar. 
 
 ## Unguided
 
@@ -479,22 +481,22 @@ KODE
 Buatlah program menu Single Linked List Non-Circular untuk
 menyimpan Nama dan usia mahasiswa, dengan menggunakan inputan
 dari user. Lakukan operasi berikut:
-a. Masukkan data sesuai urutan berikut. (Gunakan insert depan,
-belakang atau tengah). Data pertama yang dimasukkan adalah
-nama dan usia anda.
-[Nama_anda] [Usia_anda]
-John 19
-Jane 20
-Michael 18
-Yusuke 19
-Akechi 20
-Hoshino 18
-Karin 18
-b. Hapus data Akechi
-c. Tambahkan data berikut diantara John dan Jane : Futaba 18
-d. Tambahkan data berikut diawal : Igor 20
-e. Ubah data Michael menjadi : Reyn 18
-f. Tampilkan seluruh data
+    a. Masukkan data sesuai urutan berikut. (Gunakan insert depan,
+    belakang atau tengah). Data pertama yang dimasukkan adalah
+    nama dan usia anda.
+        [Nama_anda] [Usia_anda]
+        John 19
+        Jane 20
+        Michael 18
+        Yusuke 19
+        Akechi 20
+        Hoshino 18
+        Karin 18
+    b. Hapus data Akechi
+    c. Tambahkan data berikut diantara John dan Jane : Futaba 18
+    d. Tambahkan data berikut diawal : Igor 20
+    e. Ubah data Michael menjadi : Reyn 18
+    f. Tampilkan seluruh data
 
 ``` C++
 // WILDAN MAULANA ZIDAN
@@ -921,4 +923,5 @@ int main() {
     return 0;
 }
 ```
+
 
