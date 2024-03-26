@@ -3,9 +3,7 @@
 ## Dasar Teori
 
 ### Single Linked List
-Linked List adalah salah satu bentuk struktur data, berisi kumpulan data
-(node) yang tersusun secara sekuensial, saling sambungmenyambung,
-dinamis dan terbatas.
+Single Linked List adalah sebuah field pointer-nya hanya satu buah saja dan satu arah serta pada akhir node yang nodenya saling terhubung satu sama lain. Jadi Setiap node pada linked list mempunyai field yang berisi pointer ke node berikutnya, dan juga memiliki field yang berisi data. Node terakhir akan menunjuk ke NULL yang akan digunakan sebagai kondisi berhenti pada saat pembacaan isi linked list.
 - Linked List sering disebut juga Senarai Berantai
 - Linked List saling terhubung dengan bantuan variabel pointer
 - Masing-masing data dalam Linked List disebut dengan node (simpul) yang
@@ -924,22 +922,22 @@ int main() {
 }
 ```
 #### Output Guided 1
-![Output Unguided 1]()
+![Output Unguided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%203/GAMBAR%20OUTPUT/Output%20Unguided%201.png)
 Kode ini memiliki fungsi-fungsi seperti inisialisasi, pengecekan kekosongan,
 penambahan depan, belakang, tengah dan penghapusan data, serta tampilkan data
 keseluruhan. 
 
 #### Output Guided 2
-![Output Unguided 2]()
+![Output Unguided 2](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%203/GAMBAR%20OUTPUT/Output%20Unguided%202.png)
 Kode ini adalah sebuah program manajemen toko skincare yang menggunakan linked list untuk menyimpan data produk-produk skincare beserta harganya. 
 Kode ini memungkinkan pengguna untuk menambahkan data produk baru, menghapus data produk, mengubah data produk, menambahkan data produk pada urutan tertentu, menghapus data produk pada urutan tertentu, menghapus seluruh data produk, dan menampilkan seluruh data produk yang tersimpan.
 
 #### Full Code Screnshoot
-![Output Full Code Screnshoot]()
+![Output Full Code Screnshoot](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/tree/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%203/GAMBAR%20OUTPUT)
 
 ## Kesimpulan
-
+Single linked list adalah struktur data di mana setiap node memiliki referensi ke node berikutnya, sehingga hanya memungkinkan traversal ujung ke ujung. Sementara itu, double linked list memiliki node yang menyimpan referensi ke node sebelumnya dan berikutnya, sehingga memungkinkan pergerakan maju dan mundur. Keuntungan dari single linked list adalah menggunakan memori dengan lebih efisien, sedangkan double linked list memungkinkan operasi seperti menghapus dan menambahkan elemen di tengah list menjadi lebih efisien. Namun, double linked list memerlukan lebih banyak memori untuk menyimpan referensi tambahan. Kedua struktur data ini digunakan dalam konteks untuk menyederhanakan operasi penyimpanan, penghapusan, dan penjelajahan data, terutama ketika data harus diubah secara dinamis..
 ## Referensi
-[1]
+[1] A. S. Nugraha, "Mengenal Single Linked List dalam Struktut Data," Daisma Bali, 23 12 2019. [Online]. Available: https://daismabali.com/artikel_detail/54/1/Mengenal-Single-Linked-List-dalam-Struktur-Data.html. [Accessed 26 3 2024].
 [2]
 
