@@ -19,7 +19,7 @@ balik, dua arah tersebut disebut dengan double linked list.
 Pada Implementasinya, Single Linked List terdapat dua variasi yaitu circular dan noncircular[1].
 
 ### Double linked list
-Linked List adalah suatu struktur data linier. linked list dibentuk secara dinamik. Pada
+Doubly linked list adalah linked list bidirectional. Jadi, kita bisa melintasinya secara dua arah. Tidak seperti singly linked list, simpul doubly linked list berisi satu pointer tambahan yang disebut previous pointer. Pointer ini menunjuk ke simpul sebelumnya.Pada
 saat awal program dijalankan elemen linked list belum data. Elemen linked list
 (disebut node) dibentuk sambil jalan sesuai instruksi. sebuah node linked list diakses
 dengan menggunakan pointer yang mengacu ke node tersebut.
@@ -939,5 +939,5 @@ Kode ini memungkinkan pengguna untuk menambahkan data produk baru, menghapus dat
 Single linked list adalah struktur data di mana setiap node memiliki referensi ke node berikutnya, sehingga hanya memungkinkan traversal ujung ke ujung. Sementara itu, double linked list memiliki node yang menyimpan referensi ke node sebelumnya dan berikutnya, sehingga memungkinkan pergerakan maju dan mundur. Keuntungan dari single linked list adalah menggunakan memori dengan lebih efisien, sedangkan double linked list memungkinkan operasi seperti menghapus dan menambahkan elemen di tengah list menjadi lebih efisien. Namun, double linked list memerlukan lebih banyak memori untuk menyimpan referensi tambahan. Kedua struktur data ini digunakan dalam konteks untuk menyederhanakan operasi penyimpanan, penghapusan, dan penjelajahan data, terutama ketika data harus diubah secara dinamis..
 ## Referensi
 [1] A. S. Nugraha, "Mengenal Single Linked List dalam Struktut Data," Daisma Bali, 23 12 2019. [Online]. Available: https://daismabali.com/artikel_detail/54/1/Mengenal-Single-Linked-List-dalam-Struktur-Data.html. [Accessed 26 3 2024].
-[2]
+[2] Trivusi, "Struktur Data Linked List: Pengertian, Karakteristik, dan Jenis-jenisnya," -, 16 September 2022. [Online]. Available: https://www.trivusi.web.id/2022/07/struktur-data-linked-list.html. [Accessed 27 Maret 2024].
 
