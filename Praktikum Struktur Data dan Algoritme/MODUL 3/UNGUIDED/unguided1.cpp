@@ -156,7 +156,6 @@ int main() {
     init();
 
     // a. Masukkan data sesuai urutan berikut
-    insertDepan("Igor", 20);
     insertDepan("wildan", 19);
     insertBelakang("John", 19);
     insertTengah("Futaba", 18, "John");
