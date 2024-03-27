@@ -655,7 +655,6 @@ int main() {
     init();
 
     // a. Masukkan data sesuai urutan berikut
-    insertDepan("Igor", 20);
     insertDepan("wildan", 19);
     insertBelakang("John", 19);
     insertTengah("Futaba", 18, "John");
@@ -936,7 +935,8 @@ Kode ini memungkinkan pengguna untuk menambahkan data produk baru, menghapus dat
 ![Output Full Code Screnshoot](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/tree/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%203/GAMBAR%20OUTPUT)
 
 ## Kesimpulan
-Single linked list adalah struktur data di mana setiap node memiliki referensi ke node berikutnya, sehingga hanya memungkinkan traversal ujung ke ujung. Sementara itu, double linked list memiliki node yang menyimpan referensi ke node sebelumnya dan berikutnya, sehingga memungkinkan pergerakan maju dan mundur. Keuntungan dari single linked list adalah menggunakan memori dengan lebih efisien, sedangkan double linked list memungkinkan operasi seperti menghapus dan menambahkan elemen di tengah list menjadi lebih efisien. Namun, double linked list memerlukan lebih banyak memori untuk menyimpan referensi tambahan. Kedua struktur data ini digunakan dalam konteks untuk menyederhanakan operasi penyimpanan, penghapusan, dan penjelajahan data, terutama ketika data harus diubah secara dinamis..
+Single linked list adalah struktur data di mana setiap node memiliki referensi ke node berikutnya, sehingga hanya memungkinkan traversal ujung ke ujung. Sementara itu, double linked list memiliki node yang menyimpan referensi ke node sebelumnya dan berikutnya, sehingga memungkinkan pergerakan maju dan mundur. Keuntungan dari single linked list adalah menggunakan memori dengan lebih efisien, sedangkan double linked list memungkinkan operasi seperti menghapus dan menambahkan elemen di tengah list menjadi lebih efisien. Namun, double linked list memerlukan lebih banyak memori untuk menyimpan referensi tambahan. Kedua struktur data ini digunakan dalam konteks untuk menyederhanakan operasi penyimpanan, penghapusan, dan penjelajahan data, terutama ketika data harus diubah secara dinamis.
+
 ## Referensi
 [1] A. S. Nugraha, "Mengenal Single Linked List dalam Struktut Data," Daisma Bali, 23 12 2019. [Online]. Available: https://daismabali.com/artikel_detail/54/1/Mengenal-Single-Linked-List-dalam-Struktur-Data.html. [Accessed 26 3 2024].
 [2] Trivusi, "Struktur Data Linked List: Pengertian, Karakteristik, dan Jenis-jenisnya," -, 16 September 2022. [Online]. Available: https://www.trivusi.web.id/2022/07/struktur-data-linked-list.html. [Accessed 27 Maret 2024].
