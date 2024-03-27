@@ -921,7 +921,7 @@ int main() {
 }
 ```
 #### Output Guided 1
-![Output Unguided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%203/GAMBAR%20OUTPUT/Output%20Unguided%201.png)
+![Output Unguided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%203/GAMBAR%20OUTPUT/Output%20UNGUIDED%201.png)
 Kode ini memiliki fungsi-fungsi seperti inisialisasi, pengecekan kekosongan,
 penambahan depan, belakang, tengah dan penghapusan data, serta tampilkan data
 keseluruhan. 
