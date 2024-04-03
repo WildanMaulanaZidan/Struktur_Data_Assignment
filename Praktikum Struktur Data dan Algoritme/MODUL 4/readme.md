@@ -937,5 +937,47 @@ a) Penambahan data Wati 2330004 diantara Farrel dan Denis
 
 ![Output a](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%204/GAMBAR%20OUTPUT/Output%20a.png)
 
+
 b) Hapus data denis
+
 ![Output b](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%204/GAMBAR%20OUTPUT/Output%20b.png)
+
+
+c) Tambahkan data berikut di awal: Owi 2330000
+
+![Output c](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%204/GAMBAR%20OUTPUT/Output%20c.png)
+
+
+d) Tambahkan data berikut di akhir: David 2330010
+
+![Output d](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%204/GAMBAR%20OUTPUT/Output%20d.png)
+
+
+e) Ubah data Udin menjadi data berikut: Idin 23300045
+
+![Output e](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%204/GAMBAR%20OUTPUT/Output%20e.png)
+
+
+f) Ubah data terkahir menjadi berikut: Lucy 23300101
+
+![Output f](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%204/GAMBAR%20OUTPUT/Output%20f.png)
+
+
+g) Hapus data awal
+
+![Output g](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%204/GAMBAR%20OUTPUT/Output%20g.png)
+
+
+h) Ubah data awal menjadi berikut: Bagas 2330002
+
+![Output h](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%204/GAMBAR%20OUTPUT/Output%20h.png)
+
+
+i) Hapus data akhir
+
+![Output i](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%204/GAMBAR%20OUTPUT/Output%20i.png)
+
+
+j) Tampilkan seluruh data
+
+![Output j](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%204/GAMBAR%20OUTPUT/Output%20j.png)
