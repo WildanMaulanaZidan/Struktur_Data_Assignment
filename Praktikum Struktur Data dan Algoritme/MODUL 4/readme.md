@@ -925,5 +925,9 @@ int main() {
 
 ```
 ### Output
+
+Tampilan Awal Program
 ![Tampilan Awal Program](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%204/GAMBAR%20OUTPUT/Output%20Unguided1.png)
 
+### 2. Setelah membuat menu tersebut, masukkan data sesuai urutan berikut, lalu tampilkan data yang telah dimasukkan. (Gunakan insert depan, belakang atau tengah)
+![Output Unguided 2]()
