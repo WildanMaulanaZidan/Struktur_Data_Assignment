@@ -981,3 +981,14 @@ i) Hapus data akhir
 j) Tampilkan seluruh data
 
 ![Output j](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%204/GAMBAR%20OUTPUT/Output%20j.png)
+
+
+Kode diatas adalah contoh penggunaan Single Linked List Circular yang meliputi beberapa fungsi dan prosedur yang normal seperti Tambah, Hapus, dan Ubah. Terdapat penyesuaian pada prosedur tambah, hapus, dan ubah dimana penyesuaian tersebut memastikan agar tail->next selalu merujuk ke head. Kode tersebut user diberikan sebuah menu yang dimana user bisa memilih diantara menu tersebut, menu-menu tadi mengarahkan ke salah satu prosedur atau fungsi. Di lakukan beberapa perubahan pada data dengan menggunakan tambah, ubah dan hapus sehingga tampilan data akhir terlihat seperti gambar diatas
+
+## Kesimpulan 
+Linked List Circular melingkar seperti single linked list atau double dengan simpul pertama, "head", dan simpul terakhir, "tail", terhubung. Dalam single linked list atau double, kita dapat menemukan awal dan akhir daftar hanya dengan memeriksa apakah tautannya NULL. Namun untuk Linked List Circular , diperlukan kode yang lebih kompleks untuk secara eksplisit memeriksa node awal dan akhir dalam aplikasi tertentu. Daftar tertaut melingkar cocok untuk daftar yang perlu Anda putar terus-menerus. Sedangkan pad Linked List Non Circullar node perujuk dari tail akan merujuk ke NULL yang membuat arah linked list tidak berputar. Linked List Circular cocok untuk daftar yang perlu Anda putar terus-menerus yang memberi fleksibilitas lebih dari pada Non Circular tetapi diperlukan kode yang lebih kompleks untuk secara eksplisit memeriksa node awal dan akhir dalam aplikasi tertentu, juga memerlukan penyesuaian yang lebih kompleks ketika menambahkan, mengubah, dan menghapus suatu node dikarenakan node-node tersebut harus dipastikan agar terus memutar.
+
+## Reverensi
+[1] W3schools. DSA Linked Lists Types[Online]. Avaible: https://www.w3schools.com/dsa/dsa_data_linkedlists_types.php
+[2] Trivusi. (2022, September 16) Struktur Data Linked List: Pengertian, Karakteristik, dan Jenis-jenisnya[Online]. Avaible: https://www.trivusi.web.id/2022/07/struktur-data-linked-list.html
+
