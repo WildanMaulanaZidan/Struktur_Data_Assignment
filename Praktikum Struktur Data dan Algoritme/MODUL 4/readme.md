@@ -1,7 +1,7 @@
 # <h1 align="center"> LAPORAN PRAKTIKUM MODUL 4 LINKED LIST CIRCULAR DAN NON CIRCULAR </h1>
 
 ## Dasar Teori
-### Lingked List Circular
+### Linked List Circular
 
 Linked List Circular, seperti single linked list atau double dengan simpul pertama, "head", dan simpul terakhir, "tail", terhubung.
 Dalam single linked list atau double, kita dapat menemukan awal dan akhir daftar hanya dengan memeriksa apakah tautannya NULL. 
@@ -326,7 +326,7 @@ int main()
 }
 ```
 ### Output
-![Output Guided 1]()
+![Output Guided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%204/GAMBAR%20OUTPUT/Output%20Guided1.png)
 
 Kode diatas merupakan implementasi dari penggunaan single linked list non circular. 
 Di dalam kode tersebut terdapat banyak prosedur dan fungsi untuk mengolah single linked list seperti Insert, Delete, Update, countList.
@@ -568,7 +568,7 @@ int main (){
 }
 ```
 ### Output
-![Output Guided 2]()
+![Output Guided 2](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%204/GAMBAR%20OUTPUT/Output%20Guided2.png)
 
 Kode diatas merupakan implementasi dari penggunaan single linked list circular. Di dalam kode tersebut terdapat banyak prosedur dan fungsiuntuk mengolah single linked list seperti Insert, Delete, Update, countList.
 Masing-masing memiliki kegunaanya sendiri, seperti namanya Menambahkan data, Menghapus data, Mengupdate data, baik di depan atau belakang atau tengah serta lainya.
@@ -925,4 +925,5 @@ int main() {
 
 ```
 ### Output
-![Tampilan Awal Program]()
+![Tampilan Awal Program](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%204/GAMBAR%20OUTPUT/Output%20Unguided1.png)
+
