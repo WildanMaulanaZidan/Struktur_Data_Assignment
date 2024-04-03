@@ -990,5 +990,6 @@ Linked List Circular melingkar seperti single linked list atau double dengan sim
 
 ## Reverensi
 [1] W3schools. DSA Linked Lists Types[Online]. Avaible: https://www.w3schools.com/dsa/dsa_data_linkedlists_types.php
+
 [2] Trivusi. (2022, September 16) Struktur Data Linked List: Pengertian, Karakteristik, dan Jenis-jenisnya[Online]. Avaible: https://www.trivusi.web.id/2022/07/struktur-data-linked-list.html
 
