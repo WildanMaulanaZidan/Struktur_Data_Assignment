@@ -170,6 +170,7 @@ int main() {
 ```
 #### Output Guided 1
 ![Output Guided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%205/GAMBAR/output%20guided%201.png)
+
 Kode di atas menggunakan array dinamis “table” untuk menyimpan bucket dalam
 hash table. Setiap bucket diwakili oleh sebuah linked list dengan setiap node
 merepresentasikan satu item data. Fungsi hash sederhana hanya menggunakan
@@ -283,6 +284,7 @@ return 0;
 ```
 #### Output Guided 2
 ![Output Guided 2](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%205/GAMBAR/output%20guided%202.png)
+
 Pada program di atas, class HashNode merepresentasikan setiap node dalam hash
 table, yang terdiri dari nama dan nomor telepon karyawan. Class HashMap
 digunakan untuk mengimplementasikan struktur hash table dengan menggunakan
@@ -464,6 +466,7 @@ int main() {
 ```
 #### Output Unguided 1
 ![Output Unguided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%205/GAMBAR/output%20unguided%201.png)
+
 Kode di atas digunakan untuk menyimpan data mahasiswa, setiap mahasiswa diwakili oleh struktur data dengan NIM dan nilai, dan data disimpan dalam hash table menggunakan fungsi hash sederhana. kode di atas menyediakan opsi menu untuk menambah data baru, menghapus data menggunakan NIM, mencari data menggunakan NIM, dan mencari data berdasarkan rentang nilai 80 sampai 90.
 
 ## Kesimpulan 
