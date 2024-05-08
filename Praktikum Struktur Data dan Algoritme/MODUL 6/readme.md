@@ -150,7 +150,9 @@ depan dan belakang sama. Jelaskan bagaimana cara kerja programnya
 contoh:
 
 Kalimat : ini
+
 Kalimat tersebut adalah polindrom
 
 Kalimat : Telkom
+
 Kalimat tersebut adalah bukan polindrom
