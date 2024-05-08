@@ -136,7 +136,7 @@ return 0;
 }
 ```
 Output Guided 1
-![Output Guided 1]()
+![Output Guided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%206/GAMBAR%20OUTPUT/Output%20guided1.png)
 
 Kode di atas
 
@@ -221,7 +221,7 @@ int main() {
 }
 
 ```
-![Output Unguided 1]()
+![Output Unguided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%206/GAMBAR%20OUTPUT/Output%20Unguided%201.png)
 
 Kode di atas
 
@@ -273,7 +273,7 @@ int main() {
 }
 ```
 
-![Output Unguided 2]()
+![Output Unguided 2](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%206/GAMBAR%20OUTPUT/Output%20Unguided%202.png)
 
 Kode di atas
 
