@@ -22,16 +22,11 @@ Nah, untuk mendapatkan buku fisika, kamu harus mengeluarkan buku kimia dan biolo
 3. tidak memungkinkan akses acak, karena harus mengeluarkan tumpukan paling atas terlebih dahulu untuk mengakses tumpukan paling bawah
 
 ### Jenis-jenis operasi Stack
-1. pop
-   Pop pada stack adalah operasi yang berfokus pada penghapusan elemen.
-2. push
-   operasi Push justru lebih berfokus pada memasukkan elemen ke dalam stack atau tumpukan.
-3. isFull
-   Operasi stack yang satu ini adalah untuk mengetahui apakah tumpukan sudah penuh atau belum.
-4. isEmpty
-   Kebalikan dari isFull, isEmpty merupakan operasi yang digunakan untuk memeriksa apakah tumpukan kosong atau tidak.
-5. peek
-   operasi Peek atau mengintip adalah operasi yang dilakukan untuk mengetahui data teratas dari tumpukan tanpa harus menghapusnya.
+1. Pop, Pop pada stack adalah operasi yang berfokus pada penghapusan elemen.
+2. Push, operasi Push justru lebih berfokus pada memasukkan elemen ke dalam stack atau tumpukan.
+3. isFull, Operasi stack yang satu ini adalah untuk mengetahui apakah tumpukan sudah penuh atau belum.
+4. isEmpty, Kebalikan dari isFull, isEmpty merupakan operasi yang digunakan untuk memeriksa apakah tumpukan kosong atau tidak.
+5. peek, operasi Peek atau mengintip adalah operasi yang dilakukan untuk mengetahui data teratas dari tumpukan tanpa harus menghapusnya.
 
 ## Guided
 
@@ -135,7 +130,7 @@ cetakArrayBuku();
 return 0;
 }
 ```
-Output Guided 1
+#### Output Guided 1
 ![Output Guided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%206/GAMBAR%20OUTPUT/Output%20guided1.png)
 
 Kode di atas
@@ -221,6 +216,7 @@ int main() {
 }
 
 ```
+#### Output Unguided 1
 ![Output Unguided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%206/GAMBAR%20OUTPUT/Output%20Unguided%201.png)
 
 Kode di atas
@@ -272,7 +268,7 @@ int main() {
   return 0;
 }
 ```
-
+#### Output Unguided 2
 ![Output Unguided 2](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%206/GAMBAR%20OUTPUT/Output%20Unguided%202.png)
 
 Kode di atas
