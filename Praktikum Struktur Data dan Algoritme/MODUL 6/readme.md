@@ -26,7 +26,7 @@ Nah, untuk mendapatkan buku fisika, kamu harus mengeluarkan buku kimia dan biolo
 2. Push, operasi Push justru lebih berfokus pada memasukkan elemen ke dalam stack atau tumpukan.
 3. isFull, Operasi stack yang satu ini adalah untuk mengetahui apakah tumpukan sudah penuh atau belum.
 4. isEmpty, Kebalikan dari isFull, isEmpty merupakan operasi yang digunakan untuk memeriksa apakah tumpukan kosong atau tidak.
-5. peek, operasi Peek atau mengintip adalah operasi yang dilakukan untuk mengetahui data teratas dari tumpukan tanpa harus menghapusnya.
+5. peek, operasi Peek atau mengintip adalah operasi yang dilakukan untuk mengetahui data teratas dari tumpukan tanpa harus menghapusnya[1].
 
 ## Guided
 
@@ -133,8 +133,6 @@ return 0;
 #### Output Guided 1
 ![Output Guided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%206/GAMBAR%20OUTPUT/Output%20guided1.png)
 
-Kode di atas
-
 ## Unguided
 
 ### Unguided 1
@@ -145,9 +143,11 @@ depan dan belakang sama. Jelaskan bagaimana cara kerja programnya
 contoh:
 
 Kalimat : ini
+
 Kalimat tersebut adalah polindrom
 
 Kalimat : Telkom
+
 Kalimat tersebut adalah bukan polindrom
 
 ``` C++
@@ -219,7 +219,11 @@ int main() {
 #### Output Unguided 1
 ![Output Unguided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%206/GAMBAR%20OUTPUT/Output%20Unguided%201.png)
 
-Kode di atas
+Kode di atas menggunakan metode stack untuk menentukan apakah suatu pernyataan merupakan palindrom atau bukan. Pertama, program ini menghapus
+karakter non-alfanumerik dan mengubah semua huruf menjadi huruf kecil untuk memudahkan perbandingan. Paruh pertama kalimat yang diproses
+ditempatkan di tumpukan. Jika panjang kalimatnya ganjil, karakter tengahnya dihilangkan. Karakter yang tersisa dalam kalimat tersebut
+kemudian dibandingkan dengan karakter yang diambil dari tumpukan. Jika terdapat perbedaan, maka kalimat tersebut bukan palindrom. Namun, jika
+semua karakter cocok, frasa tersebut dianggap palindrom.
 
 ### Unguided 2
 Buatlah program untuk melakukan pembalikan terhadap kalimat menggunakan
@@ -228,6 +232,7 @@ beserta operasi/fungsi yang dibuat?
 
 Contoh
 Kalimat : Telkom Purwokerto
+
 Hasil : otrekowruP mokleT
 
 ``` C++
@@ -271,5 +276,16 @@ int main() {
 #### Output Unguided 2
 ![Output Unguided 2](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%206/GAMBAR%20OUTPUT/Output%20Unguided%202.png)
 
-Kode di atas
+Kode di atas meminta pengguna memasukkan kalimat minimal 3 kata. Program kemudian menggunakan tumpukan untuk menerjemahkan kalimat dan
+menampilkannya di layar. Jika kalimat yang dimasukkan kurang dari 3 kata, program memberikan pesan kesalahan dan berhenti. Saat menerjemahkan
+sebuah kalimat, program menggunakan struktur data tumpukan untuk menyimpan setiap karakter kalimat masukan dan kemudian mengeluarkan karakter
+tersebut dari tumpukan satu per satu untuk membentuk kalimat yang berlawanan. Setelah itu, program menampilkan kalimat terbalik di layar.
 
+## Kesimpulan 
+Stack struktur data yang menerapkan prinsip Last In First Out (LIFO), yang memungkinkan elemen baru ditambahkan ke bagian atas
+tumpukan dan elemen paling atas dihapus. Karena kecepatan akses berkelanjutan dan kesederhanaannya, tumpukan sering digunakan dalam berbagai
+aplikasi, seperti mengevaluasi ekspresi aritmatika, manajemen memori, dan pemeriksaan sintaksis dalam bahasa pemrograman. Meskipun tumpukan
+memiliki keunggulan dalam hal efisiensi operasi dorong dan lompat, tumpukan memiliki keterbatasan akses acak dan tidak mendukung pencarian langsung elemen di dalamnya tanpa menghapus elemen di atasnya.
+
+## Referensi
+[1]. M. Adieb, "Memahami Stack, Struktur Data yang Mudahkan Programmer Jalankan Tugasnya," Glints, 04 Februari 2021. [Online]. Available: https://glints.com/id/lowongan/stack-adalah/. [Accessed 08 Mei 2024].
