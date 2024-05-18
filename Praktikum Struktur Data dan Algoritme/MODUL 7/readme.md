@@ -212,7 +212,8 @@ int main() {
 ```
 ![Output Unguided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%207/GAMBAR/Output%20Unguided1.png)
 
-Kode di atas
+Kode di atas mengimplementasikan struktur data antrian yang dirancang khusus untuk mengelola antrian. Ini menggunakan node untuk
+menyimpan data dan pointer untuk menghubungkannya bersama.
 
 ### 2. Dari nomor 1 buatlah konsep antri dengan atribut Nama mahasiswa dan NIM Mahasiswa
 
@@ -311,10 +312,12 @@ int main() {
 ```
 ![Output Unguided 2](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%207/GAMBAR/Output%20Unguided%202%2C.png)
 
-Kode di atas
+Kode di atas membuat fungsi untuk enqueue (menambah ke antrian), dequeue (mengeluarkan dari antrian), mengecek apakah antrian kosong,
+menghitung jumlah mahasiswa, menghapus semua elemen antrian, dan menampilkan antrian.
 
 ## Kesimpulan
-
+Queue struktur data yang digunakan untuk menyimpan elemen secara berurutan. Elemen ditambahkan ke bagian belakang antrian dan dihapus dari
+depan
 
 ## Referensi
 [1] 	A. Rizky, "LOGIC : Jurnal Ilmu Komputer dan Pendidikan," PENERAPAN ALGORITMA QUEUE PADA APLIKASI PEMESANAN OBAT BERBASIS MOBILE PADA
