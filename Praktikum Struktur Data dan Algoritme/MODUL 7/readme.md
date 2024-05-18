@@ -115,7 +115,7 @@ return 0;
 ```
 
 #### Outout Guided 1
-![Output Guided 1]()
+![Output Guided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%207/GAMBAR/Output%20Guided.png)
 
 ## Unguided 
 
@@ -210,7 +210,7 @@ int main() {
 }
 
 ```
-![Output Unguided 1]()
+![Output Unguided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%207/GAMBAR/Output%20Unguided1.png)
 
 Kode di atas
 
@@ -309,6 +309,16 @@ int main() {
 }
 
 ```
-![Output Unguided 2]()
+![Output Unguided 2](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%207/GAMBAR/Output%20Unguided%202%2C.png)
 
 Kode di atas
+
+## Kesimpulan
+
+
+## Referensi
+[1] 	A. Rizky, "LOGIC : Jurnal Ilmu Komputer dan Pendidikan," PENERAPAN ALGORITMA QUEUE PADA APLIKASI PEMESANAN OBAT BERBASIS MOBILE PADA
+APOTEK ARUBA FARMA DEPOK, vol. 1, no. 5, pp. 1168-1177, 2023. 
+[2] 	R. Gunawan, "Jurnal Mahasiswa Teknik Informatika," IMPLEMENTASI METODE QUEUE PADA SISTEM ANTRIAN ONLINE BERBASIS WEB STUDI KASUS UPTD
+PUSKESMAS SANANWETAN, vol. 7, no. 3, pp. 1538-1545, 2023. 
+
