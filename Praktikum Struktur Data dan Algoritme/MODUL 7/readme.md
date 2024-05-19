@@ -317,7 +317,8 @@ menghitung jumlah mahasiswa, menghapus semua elemen antrian, dan menampilkan ant
 
 ## Kesimpulan
 Queue struktur data yang digunakan untuk menyimpan elemen secara berurutan. Elemen ditambahkan ke bagian belakang antrian dan dihapus dari
-depan
+depan. Operasi dasar pada queue meliputi enqueue menambah elemen ke belakang queue, dequeue menghapus elemen dari depan queue, front
+mengakses elemen di depan tanpa menghapusnya, dan empty memeriksa apakah queue kosong.
 
 ## Referensi
 [1] 	A. Rizky, "LOGIC : Jurnal Ilmu Komputer dan Pendidikan," PENERAPAN ALGORITMA QUEUE PADA APLIKASI PEMESANAN OBAT BERBASIS MOBILE PADA
