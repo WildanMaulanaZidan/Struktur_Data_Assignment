@@ -20,7 +20,7 @@ Urutan Algoritma Sequential Searching:
 2. Ketemu <- false
 3. Selama ( tidak ketemu ) dan ( i < N ) kerjakan baris 4
 4. Jika ( Data[i] = key ) maka ketemu <- true Jika tidak i <- i + 1
-5. Jika ( Ketemu ) maka i adalah indeks dari data yang dicari[1]
+5. Jika ( Ketemu ) maka i adalah indeks dari data yang dicari.[1].
 
 ### Algoritma Binary Search
 Pencarian biner (Binary Search) adalah metode pencarian data pada array yang telah terurut. Metode ini lebih efisien daripada metode pencarian linier dimana semua
@@ -34,7 +34,7 @@ Prinsip pencarian biner dapat dijelaskan sebagai berikut Misalkan indeks kiri ad
 1. Bagi dua elemen larik pada elemen tengah. Elemen tengah adalah elemen dengan indeks k = (i + j) div 2. ( Elemen tengah L[K], membagi larik menjadi dua bagianyaitu bagian kiri L[i..j] dan bagian kanan L[k+1..j])
 2. Periksa apakah L[K] = x, jika L[K] = x maka pencarian selesai sebab x sudah ditemukan. Tetapi jika L[K] ≠ x, harus ditentukan apakah pencarian akan dilakukan di larik bagian kiri atau dilarik bagian kanan. Jika L[K] < x, maka
    pencarian dilakukan lagi pada larik bagian kiri. Sebaliknya, jika L[K] > x maka pencarian dilakukan lagi pada larik bagian kanan.
-3. Ulangi langkah pertama hingga x ditemukan atau i > j yaitu ukuran larik sudah nol[2].
+3. Ulangi langkah pertama hingga x ditemukan atau i > j yaitu ukuran larik sudah nol.[2].
 
 ## Guided
 
