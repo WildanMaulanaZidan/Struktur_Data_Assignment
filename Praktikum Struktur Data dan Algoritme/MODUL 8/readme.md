@@ -139,7 +139,7 @@ int main() {
 }
 ```
 
-#### Output 
+#### Output Guided 2
 ![Output Guided 2](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%208/GAMBAR/Output%20Guided2.png)
 
 Kode diatas melakukan pencarian biner (binary search) pada array yang telah diurutkan menggunakan algoritma selection sort,
@@ -211,7 +211,7 @@ int main() {
 }
 ```
 #### Output Unguided 1
-![Output Unguided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%208/GAMBAR/Output%20Unguided%202.png)
+![Output Unguided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%208/GAMBAR/Output%20Unguided1.png)
 
 Kode diatas adalah Algoritma Binary Search bekerja pada array yang terurut, Jika huruf ditemukan, program akan mencetak indeks posisi huruf setelah diurutkan,
 Jika huruf tidak ditemukan, program akan memberitahu bahwa huruf tidak ada dalam kalimat.
@@ -256,7 +256,7 @@ int main() {
 ```
 
 #### Output Unguided 2
-![Output Unguided 2](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%208/GAMBAR/Output%20Unguided1.png)
+![Output Unguided 2](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%208/GAMBAR/Output%20Unguided%202.png)
 
 Kode diatas adalah cara mudah untuk menghitung jumlah huruf vokal dalam sebuah kalimat yang diinput oleh pengguna.
 
@@ -301,6 +301,10 @@ int main() {
 Kode diatas kita bisa menghitung berapa banyak angka 4 yang terdapat dalam array data menggunakan algoritma Sequential Search.
 
 ## Kesimpulan 
-
+Sequential search Algoritma ini memeriksa setiap elemen dalam struktur data satu per satu hingga elemen yang dicari ditemukan atau seluruh
+elemen telah diperiksa. Sedangkan Binary Search Algoritma ini lebih efisien daripada pencarian linier, tetapi memerlukan data yang terurut.
 
 ## Referensi 
+[1] 	A. Sonita, "Jurnal Pseudocode," IMPLEMENTASI ALGORITMA SEQUENTIAL SEARCHING UNTUK PENCARIAN NOMOR SURAT PADA SISTEM ARSIP ELEKTRONIK, vol. 5, no. 1, pp. 1-9, 2018. 
+
+[2] 	A. R. S. D, "JUKOMIKA - (JURNAL ILMU KOMPUTER DAN INFORMATIKA)," PENERAPAN ALGORITMA BINARY SEARCH PADA APLIKASI E-ORDER (STUDI KASUS PARIS VAN JAVA KOTA BENGKULU), vol. 3, no. 6, pp. 571-580, 2020.
