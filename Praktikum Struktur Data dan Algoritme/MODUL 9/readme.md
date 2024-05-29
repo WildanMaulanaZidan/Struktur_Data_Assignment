@@ -549,7 +549,7 @@ int main()
     }
 }
 ```
-![Output Unguide 1]()
+![Output Unguide 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/Unguided%201.png)
 
 Kode di atas
 
@@ -1184,7 +1184,13 @@ int main()
     return 0;
 }
 ```
-![]()
+![1. Pembuaatan Root](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/output%20unguided%201.png)
+
+![2. Penambahan Child](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/unguided%202.2.a.png)
+![](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/unguided%202.2.b.png)
+
+![3. Pengubahan Data Node]()
+
 
 Kode di atas
 
