@@ -73,7 +73,7 @@ return 0;
 #### Output Guided 1
 ![Output Guided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/output%20guided1.png)
 
-Kode di atas
+Kode di atas implementasi graph untuk menyimpan semua simpul dan array busur untuk menyimpan bobot setiap simpul dalam matriks.
 
 ### 2. Tree
 ```C++
@@ -460,7 +460,11 @@ int main()
 ![Output Guided 2](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/output%20guided%202.a.png)
 ![](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/output%20guided%202.b.png)
 
-Kode di atas
+Kode di atas untuk mengolah tree dimna fungsi isEmpty untuk mengecek apakah tree kosong, ada insertLeft dam insertRight yaitu untuk
+menambahkan child ke kiri atau kanan. Ada fungsi update untuk mengubah data tree, ada retrive dan find yang fungsinya hampir sama yaitu
+melihat data atau informasi dari suatu node. Ada fungsi untuk menvetak tree yaitu preOrder, inOrder, postOrder. Ada fungsi deleteTree dan
+deleteSubtree yang fungsinya menghapus tree atau sebagian node. Ada juga fungsi untuk mencetak karakteristik tree seperti size, height,
+characteristics.
 
 ## Unguided
 
@@ -554,7 +558,7 @@ int main()
 #### Output Unguided 1
 ![Output Unguide 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/Unguided%201.png)
 
-Kode di atas
+Kode di atas untuk membuat sebuah graph dengan jumlah yang di masukan oleh pengguna. Pada fungsi fillVertex user mengisi data simpul secara manual, setelah array simpul sudah di isi selanjutnya pengguna juga diminta untuk mengisi bobot dari setiap simpul tersebut.
 
 ### 2. Modifikasi guided tree diatas dengan program menu menggunakan input data tree dari user dan berikan fungsi tambahan untuk menampilkan node child dan descendant dari node yang diinput kan!
 
@@ -1206,12 +1210,32 @@ int main()
 ![5. Mencari Node](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/unguided%202.5.png)
 
 #### 6. Pencetakan Tree
-![pre order]()
-![in order]()
-![post order]()
+![pre order](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/unguided%202.6.a.png)
+![in order](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/unguided%202.6.b.png)
+![post order](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/unguided%202.6.c.png)
+
+#### 7. Hapus Subtree
+![hapus Subtree](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/unguided%202.7.png)
+
+Kode di atas sama seperti yang di guided 2, di unguided ini ada penambahan fungsi getRoot yaitu untuk mengakses node root di luar class Tree
+dan fungsi findNode untuk mencari suatu node dengan data yang sama yang diterima parameternya.
+
+## Kesimpulan 
 
 
-Kode di atas
+Dalam C++, graph dan tree adalah struktur data penting untuk merepresentasikan hubungan antar objek. Graph terdiri dari node (vertex) yang
+terhubung oleh sisi (edge), bisa searah (directed) atau tidak (undirected).  Sementara tree bersifat hierarki dengan satu node akar (root),
+node anak (child) yang saling terhubung, dan tidak memiliki siklus antar node, cocok untuk menggambarkan relasi orang tua-anak.  Meskipun
+keduanya bisa digunakan untuk pencarian (traversal), graph lebih fleksibel untuk hubungan bebas, sedangkan tree optimal untuk struktur
+berjenjang.
+
+## Referensi
+[1] 	I. Afrianto, "Jurnal Ilmiah Komputer dan Informatika (KOMPUTA)," PENYELESAIAN MASALAH MINIMUM SPANNING TREE (MST) MENGGUNAKAN ANT
+COLONY SYSTEM (ACS), vol. 1, no. 2, pp. 35-40, 2012.
+
+[2] 	F. Latifah, "Jurnal TECHNO Nusa Mandiri," PENERAPAN ALGORITHMA POHON UNTUK OPERASI PENGOLAHAN DAN PENYIMPANAN DATA DALAM TEKNIK
+PEMROGRAMAN (KAJIAN ALGORITHMA POHON PADA TEKNIK PEMROGRAMAN), vol. XIII, no. 2, pp. 111-120, 2016.
+
 
 
 
