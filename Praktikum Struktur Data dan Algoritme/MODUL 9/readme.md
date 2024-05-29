@@ -1205,6 +1205,11 @@ int main()
 #### 5. Mencari Node
 ![5. Mencari Node](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/unguided%202.5.png)
 
+#### 6. Pencetakan Tree
+![pre order]()
+![in order]()
+![post order]()
+
 
 Kode di atas
 
