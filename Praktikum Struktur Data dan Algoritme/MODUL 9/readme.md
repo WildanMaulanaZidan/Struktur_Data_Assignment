@@ -455,7 +455,8 @@ int main()
     characteristic();
 }
 ```
-![Output Guided 2](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/output%20guided%202.a.png)(https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/output%20guided%202.b.png)
+![Output Guided 2](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/output%20guided%202.a.png)
+![](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/output%20guided%202.b.png)
 
 Kode di atas
 
