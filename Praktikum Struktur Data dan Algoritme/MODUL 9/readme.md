@@ -70,6 +70,7 @@ return 0;
 
 }
 ```
+#### Output Guided 1
 ![Output Guided 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/output%20guided1.png)
 
 Kode di atas
@@ -455,6 +456,7 @@ int main()
     characteristic();
 }
 ```
+#### Output Guided 2
 ![Output Guided 2](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/output%20guided%202.a.png)
 ![](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/output%20guided%202.b.png)
 
@@ -549,6 +551,7 @@ int main()
     }
 }
 ```
+#### Output Unguided 1
 ![Output Unguide 1](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/Unguided%201.png)
 
 Kode di atas
@@ -1184,12 +1187,23 @@ int main()
     return 0;
 }
 ```
-![1. Pembuaatan Root](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/output%20unguided%201.png)
+#### Output 
 
+#### 1. Pembuatan Root
+![1. Pembuaatan Root](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/output%20Unguided%202.png)
+
+#### 2. Penambahan Child
 ![2. Penambahan Child](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/unguided%202.2.a.png)
 ![](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/unguided%202.2.b.png)
 
-![3. Pengubahan Data Node]()
+#### 3. Pengubahan Data Node
+![3. Pengubahan Data Node](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/unguided%202.3.png)
+
+#### 4. Menampilkan Data Node
+![4. Menampilkan data node](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/unguided%202.4.png)
+
+#### 5. Mencari Node
+![5. Mencari Node](https://github.com/WildanMaulanaZidan/Struktur_Data_Assignment/blob/main/Praktikum%20Struktur%20Data%20dan%20Algoritme/MODUL%209/gambar/unguided%202.5.png)
 
 
 Kode di atas
