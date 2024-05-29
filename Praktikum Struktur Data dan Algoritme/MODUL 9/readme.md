@@ -549,7 +549,7 @@ int main()
     }
 }
 ```
-![]()
+![Output Unguide 1]()
 
 Kode di atas
 
