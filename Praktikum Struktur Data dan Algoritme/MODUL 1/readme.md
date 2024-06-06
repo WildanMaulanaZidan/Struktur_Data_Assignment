@@ -10,10 +10,7 @@ data akan digunakan. Adapun tipe data yang akan dipelajari, sebagai berikut :
 3. Tipe data Koleksi
 
 ### 1.Tipe data Primitif
-Tipe data primitif adalah tipe data yang sudah ditentukan oleh sistem, tipe data
-primitif ini disediakan oleh banyak bahasa pemrograman, perbedaannya terletak pada
-jumlah bit yang dialokasikan untuk setiap bit pada tipe data primitif tergantung pada
-bahasa pemrograman,compiler dan sistem operasinya.
+Tipe primitif dialokasikan dalam memori yang sudah dideklarasikan pada program. Tipe referensi merupakan variabel yang berupa tipe kelas, tipe antarmuka, dan tipe array. Sebuah referensi mengacu pada sebuah objek (sebuah instance dari sebuah kelas).[1]
 
 ### 2.Tipe Data Abstrak
 Tipe data abstrak atau yang biasa disebut Abstrak Data Tipe(ADT) merupakan
@@ -21,10 +18,7 @@ tipe data yang dibentuk oleh programer itu sendiri. Pada tipe data abstrak bisa 
 banyak tipe data, jadi nilainya bisa lebih dari satu dan beragam tipe data.
 
 ### 3.Tipe Data Koleksi
-Tipe data koleksi (Collection Data Type) adalah tipe data yang digunakan untuk
-mengelompokkan dan menyimpan beberapa nilai atau objek secara bersamaan. Tipe
-data koleksi memungkinkan Anda menyimpan, mengelola, dan mengakses sejumlah
-besar data dengan cara yang terstruktur.
+Tipe data koleksi struktur data yang memungkinkan Anda untuk menyimpan dan mengelola sekumpulan data yang terhubung. Tipe data ini sangat berguna untuk berbagai aplikasi, seperti menyimpan daftar item, mengelola data statistik, dan memproses data kompleks.[2]
 
 ## Guided
 
@@ -249,10 +243,8 @@ Kode di atas untuk membuat sebuah map yang memetakan nama siswa ke usia mereka. 
 Tipe data primitif biasanaya digunakan untuk menyimpan nilai tunggal. class dan struct keduanya memiliki perbedaan dimna private unutk class dan public unutk struct. dan map biasanya digunakan unutk menghubungkan dua jenis data yang berbeda seperti nama dan usia siswa dalam conton kode di atas.
 
 ## Referensi
-Karumanchi, N. (2016). Data Structures and algorithms made easy: Concepts,
-problems, Interview Questions. CareerMonk Publications.
 
-TylerMSFT. (n.d.). Collections (C++/CX). diakses dari
-https://learn.microsoft.com/en-us/cpp/cppcx/collections-c-cx?view=msvc-170
+[1] 	A. F. S. Rahman, "Jurnal ABDIMAS (Pengabdian kepada Masyarakat) UBJ," Pelatihan Java Fundamental di SMKN 1 Balikpapan, vol. 5, no. 1, pp. 85-94, 2022. 
 
-Fajar, "Penjelasan dan Cara Pembuatan Class dan Object," 27 Agustus 2018. [Online]. Available: https://www.belajarcpp.com/tutorial/cpp/class/. [Accessed 13 Maret 2024].
+
+[2] 	geeksforgeeks, "Pelajari Struktur Data dan Algoritma," geeksforgeeks, 04 juni 2024. [Online]. Available: https://www.geeksforgeeks.org/data-structures/. [Accessed 06 juni 2024].
